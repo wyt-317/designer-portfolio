@@ -1,0 +1,12 @@
+.warp-text {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: clamp(6rem, 18vw, 11rem);
+  overflow: hidden;
+  contain: layout paint size;
+}
+
+.warp-text canvas {
+  display: block;
+}
