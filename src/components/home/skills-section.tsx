@@ -19,7 +19,7 @@ const SKILLS: Skill[] = [
   { name: 'ChatGPT', src: '/skills/chatgpt-white.png', href: 'https://chat.openai.com' },
   { name: 'Sketch', src: '/skills/sketch.png', href: 'https://www.sketch.com' },
   { name: 'Liblib AI', src: '/skills/liblib.png', href: 'https://www.liblib.art' },
-  { name: '微博', src: '/skills/weibo.png', href: 'https://weibo.com' },
+  { name: 'Blender', src: '/skills/weibo.png', href: 'https://www.blender.org' },
 ];
 
 export function SkillsSection() {
